@@ -1,4 +1,10 @@
-### Hi there 👋
+<DOCTYPE !html>
+<h1>Hi!</h1>
+<h3>My name is Julie.</h3>
+<h5>I love dogs, although I do not own any.</h5>
+
+
+
 
 <!--
 **juhum1/juhum1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
