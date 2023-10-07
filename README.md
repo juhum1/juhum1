@@ -1,6 +1,7 @@
+
 <h1>Hi!</h1>
-<h3>My name is Julie.</h3>
-<h5 color = "black">I love dogs, although I do not own any.</h5>
+<h3>My name is Julie and my pronouns are she/her!</h3>
+<h6>Some fun facts about me are that my favorite color is orange 🟧 and my favorite animals are dogs 🐶.</h6>
 
 
 
