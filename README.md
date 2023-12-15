@@ -1,8 +1,8 @@
 
 <h1>Hi!</h1>
 <h3>My name is Julie and my pronouns are she/her!</h3>
-<h6>Some fun facts about me are that my favorite color is <b>orange</b> 🟧 and my favorite animals are <i>dogs</i> 🐶.</h6>
-<h6>I am currently in high school.</h6>
+<h4>Some fun facts about me are that my favorite color is <b>orange</b> 🟧 and my favorite animals are <i>dogs</i> 🐶.</h4>
+<h4>I am currently in high school.</h4>
 
 
 
